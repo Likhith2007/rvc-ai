@@ -1,0 +1,6 @@
+{
+  "name": "RVC Voice Studio",
+  "description": "Full-stack Retrieval-based Voice Conversion (RVC) platform for dataset training, background compute jobs, pitch extraction, and high-fidelity voice conversion.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
